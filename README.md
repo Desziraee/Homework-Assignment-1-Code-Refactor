@@ -8,9 +8,10 @@ Reviewed existing code to ensure that the code accesible for individuals with di
 
 The following images shows the web application's appearance and functionality:
 
-![PartOnePreview](C:\Users\Desiree\Documents\osu-col-virt-fsf-pt-07-2021-u-c\01-HTML-Git-CSS\02-Homework\Develop\assets\images\Preview - Part 1.png)
+![image](https://user-images.githubusercontent.com/87455097/129982881-411ff312-0d72-47d5-9133-3c984c41eedc.png)
 
-![PartTwoPreview](C:\Users\Desiree\Documents\osu-col-virt-fsf-pt-07-2021-u-c\01-HTML-Git-CSS\02-Homework\Develop\assets\images\Preview - Part 2.png)
+![image](https://user-images.githubusercontent.com/87455097/129982955-8fa5fafe-a23c-4811-a75e-e987251fe48a.png)
+
 
 
 
