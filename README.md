@@ -12,6 +12,8 @@ The following images shows the web application's appearance and functionality:
 
 ![image](https://user-images.githubusercontent.com/87455097/129982955-8fa5fafe-a23c-4811-a75e-e987251fe48a.png)
 
+## Deployed Site
 
+https://desziraee.github.io/Homework-Assignment-1-Code-Refactor/
 
 
