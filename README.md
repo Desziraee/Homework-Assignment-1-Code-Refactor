@@ -1,4 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Homework Assignment 1: Code Refactor
 
 ## Description
 
